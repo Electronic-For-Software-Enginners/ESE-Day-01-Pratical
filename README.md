@@ -31,3 +31,6 @@ A simple Java Swing application to convert between 8-bit binary and decimal numb
     Input: 10000001
 
     Output: Signed Decimal: -127
+
+![WhatsApp Image 2025-06-25 at 17 35 28_c817dcae](https://github.com/user-attachments/assets/6f94f2f7-a3b1-4b53-b416-bff6f46f4278)
+
